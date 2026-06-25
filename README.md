@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikl43 (Mikhail).
-- 👀 I’m interested in Java, C++, C#, Python, Android Studio, Visual Studio.
-- 🌱 I’m currently learning.
+- 👀 I’m interested in Java, C++, C#, Python, Android Studio, Visual Studio, algorithmic trading, cryptography, smart contracts, big data, multithreaded programming.
+- 🌱 I am always learning.
 - 💞️ I’m looking to collaborate on.
 - 📫 How to reach me.
 
